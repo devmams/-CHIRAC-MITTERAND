@@ -1,2 +1,2 @@
-Apprentissage supervisé - Projet CHIRAC/MITTERAND
+Apprentissage supervisé - Projet CHIRAC/MITTERAND.
 L’objectif de ce projet était de mettre en place un ensemble de classifieurs capables de détecter sur un corpus de données les segments de discours du Pr. MITTERAND au sein des discours du Pr. CHIRAC.
